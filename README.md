@@ -41,10 +41,10 @@ A real-time face recognition and attendance monitoring system developed using Py
 ![Face Detection](face_detection.jpeg)
 
 ### Terminal Output
-![Terminal Output](terminal_output.jpeg)
+![Terminal Output](terminal.jpeg)
 
 ### ThingSpeak Cloud Update
-![ThingSpeak](thingspeak_output.jpeg)
+![ThingSpeak](thingspeak.jpeg)
 
 ## Future Improvements
 
